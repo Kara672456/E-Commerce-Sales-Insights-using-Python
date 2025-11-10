@@ -1,12 +1,13 @@
 <h1 align="center">🛍️ Amazon India Sales Data Analysis (2025)</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Libraries-Pandas%20%7C%20NumPy%20%7C%20Matplotlib%20%7C%20Seaborn-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Environment-Jupyter%20Notebook-lightgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dataset-Amazon%20Sales%202025-yellowgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-EDA%20%7C%20Data%20Cleaning%20%7C%20Visualization-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas%20|%20NumPy%20|%20Matplotlib%20|%20Seaborn-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Dataset-Amazon%20Sales%202025-yellowgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-EDA%2C%20Cleaning%2C%20Visualization-purple?style=flat-square"/>
 </p>
+
 
 ---
 
@@ -114,9 +115,4 @@ By combining data exploration and storytelling, this project replicates **real-w
 | 💳 **Payment Mode Split** | Percentage distribution of payment methods |
 | 🔁 **Return Rate** | Share of cancelled or returned orders |
 
----
 
-## 📈 Visual Insights
-
-### 🟩 Sales by Category
-![Category Sales](visuals/total_sales_by_category.p_)
